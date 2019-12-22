@@ -1,0 +1,2 @@
+module BookListInFavoritesHelper
+end
